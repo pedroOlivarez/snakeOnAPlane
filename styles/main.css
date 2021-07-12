@@ -1,0 +1,22 @@
+body {
+   margin: 0;
+}
+
+#canvas {
+   background-color: black;
+   height: 100%;
+}
+
+.canvasContainer {
+   position: absolute;
+   top: 0;
+   right: 0;
+   width: 100%;
+   height: 100%;
+   text-align: center;
+}
+
+.canvasWrapper {
+   height: 75%;
+   margin-top: 6.575%;
+}
